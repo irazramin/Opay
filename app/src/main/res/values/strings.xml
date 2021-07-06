@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Opay</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!-- pay option title list-->
+    <string-array name="payTitle">
+        <item>My Card</item>
+        <item>Withdraw</item>
+        <item>Bank Transfer</item>
+        <item>Send Money</item>
+        <item>Qr Code</item>
+        <item>More</item>
+    </string-array>
+
+    <!--bank name-->
+    <string-array name="bankName">
+        <item>Bank 1</item>
+        <item>Bank 2</item>
+        <item>Bank 3</item>
+        <item>Bank 4</item>
+        <item>Bank 5</item>
+    </string-array>
+</resources>
